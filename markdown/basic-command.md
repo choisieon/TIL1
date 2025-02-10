@@ -51,3 +51,4 @@ console.log("hello")
 - 세번째
 좀 더 상세한 내용은 slack에 있는 링크를 보고 확인.
 
+[출처](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
