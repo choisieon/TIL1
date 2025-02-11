@@ -22,7 +22,7 @@ command [options] [arguments]
 ### cd (change directory)
 - 현재 작업 디렉토리를 변경합니다. 
 - `cd {target-directory}
-    - target-directory는 자동완성 기능을 활용 (TAB)
+    - target-directory는 자동완성 기능을 활gi용 (TAB)
 질문 1. 자동완성 Tab으로 안됨.
 
 ### pwd (print working directory)
